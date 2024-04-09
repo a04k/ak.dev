@@ -13,6 +13,7 @@
     "@radix-ui/react-tooltip": "^1.0.7",
     "firebase": "^10.7.2",
     "framer-motion": "^11.0.3",
+    "fs": "^0.0.1-security",
     "install": "^0.13.0",
     "npm": "^10.4.0",
     "npx": "^3.0.0",
